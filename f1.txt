@@ -1,0 +1,29 @@
+kachha badam
+bhai
+mere
+kacha badam
+
+
+
+git init
+
+git add .
+
+git status
+
+git commit -m "message"
+
+git status
+
+sdsds
+sdsds
+sddsfsfs
+fssfgs
+ fsfs
+
+ sfsfsfsg
+
+ zz
+zz
+
+
